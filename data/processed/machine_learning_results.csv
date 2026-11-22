@@ -1,0 +1,13 @@
+Target,Model,Validation_MAE,Validation_RMSE,Validation_R2
+temperature,Linear Regression,0.418,0.5162,0.969
+temperature,Random Forest,0.4649,0.5574,0.9639
+temperature,Gradient Boosting,0.4482,0.5549,0.9642
+humidity,Linear Regression,1.2121,1.5348,0.9679
+humidity,Random Forest,1.3133,1.6632,0.9623
+humidity,Gradient Boosting,1.2364,1.5847,0.9658
+pressure,Linear Regression,0.5203,0.6679,0.9042
+pressure,Random Forest,0.3797,0.4919,0.9481
+pressure,Gradient Boosting,0.4002,0.5098,0.9442
+pm25,Linear Regression,2.4138,3.0164,0.8569
+pm25,Random Forest,2.5393,3.1234,0.8466
+pm25,Gradient Boosting,2.4802,3.0628,0.8525

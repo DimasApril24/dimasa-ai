@@ -1,0 +1,13 @@
+Variable,Sensor,Valid Samples,MAE,RMSE,Bias,MAE Rank
+humidity,humidity_sensor_1,969,0.8015,0.9955,-0.0201,1
+humidity,humidity_sensor_2,936,1.5269,1.9393,-0.0421,2
+humidity,humidity_sensor_3,865,2.4335,3.0425,0.0611,3
+pm25,pm25_sensor_1,938,2.2604,2.859,-0.0724,1
+pm25,pm25_sensor_2,903,3.9239,5.0035,0.2125,2
+pm25,pm25_sensor_3,865,5.7148,7.0524,0.2909,3
+pressure,pressure_sensor_1,973,0.2435,0.3064,0.009,1
+pressure,pressure_sensor_2,973,0.4817,0.5939,0.0094,2
+pressure,pressure_sensor_3,938,0.8189,1.024,0.0338,3
+temperature,temperature_sensor_1,971,0.3922,0.498,-0.0134,1
+temperature,temperature_sensor_2,947,0.659,0.8269,0.0088,2
+temperature,temperature_sensor_3,908,0.9525,1.1919,0.0301,3

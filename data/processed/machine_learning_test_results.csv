@@ -1,0 +1,5 @@
+Target,Selected_Model,Validation_MAE,MAE,RMSE,R2
+temperature,Linear Regression,0.418,0.4044,0.5315,0.9657
+humidity,Linear Regression,1.2121,1.2175,1.4994,0.9705
+pressure,Random Forest,0.3797,0.3668,0.4629,0.9534
+pm25,Linear Regression,2.4138,2.3813,3.0076,0.8495
