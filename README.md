@@ -22,6 +22,12 @@ Experience the interactive dashboard featuring multi-sensor data fusion, machine
 
 ---
 
+### Dashboard Preview
+
+![DIMASA AI Executive Overview](assets/dashboard-overview.png)
+
+*Executive Overview — Environmental Sensor Intelligence*
+
 ## About DIMASA AI
 
 DIMASA AI is an independent Artificial Intelligence and innovation initiative focused on exploring, researching, and developing intelligent technologies to address real-world challenges.
