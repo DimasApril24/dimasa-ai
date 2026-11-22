@@ -291,7 +291,7 @@ dimasa-ai/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/dimasa-ai.git
+git clone https://github.com/DimasApril24/dimasa-ai.git
 cd dimasa-ai
 ```
 
