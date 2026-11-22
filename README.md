@@ -8,6 +8,20 @@
 
 ---
 
+## 🚀 Live Demo
+
+**Explore DIMASA AI — Environmental Sensor Intelligence**
+
+Experience the interactive dashboard featuring multi-sensor data fusion, machine learning predictions, and uncertainty quantification.
+
+[![Open Live Demo](https://img.shields.io/badge/Launch-Live%20Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://dimasa-ai.streamlit.app)
+
+**Live Application:** https://dimasa-ai.streamlit.app
+
+---
+
+---
+
 ## About DIMASA AI
 
 DIMASA AI is an independent Artificial Intelligence and innovation initiative focused on exploring, researching, and developing intelligent technologies to address real-world challenges.
